@@ -1,1 +1,1 @@
-API for MyPalm
+API for MyPalm Mobile Application
